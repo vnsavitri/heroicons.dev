@@ -1,4 +1,4 @@
-# heroicons.dev — a Heroicons viewer
+# heroicons.dev — Heroicons viewer
 
 👉 https://heroicons.dev<br>
 👉 https://github.com/refactoringui/heroicons
